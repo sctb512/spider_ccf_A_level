@@ -92,4 +92,3 @@ if __name__ == '__main__':
 
             except Exception as e:  # 没有相关内容的跳过就好
                 print(e)
-                pass
